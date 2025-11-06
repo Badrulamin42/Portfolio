@@ -155,7 +155,7 @@ export default function BatechHome() {
                 title: "Software Engineer",
                 company: "IFCA MSC Berhad",
                 period: "Aug 2021 – May 2024",
-                location: "Malaysia",
+                location: "Petaling Jaya, Malaysia",
                 desc: [
                   "Contributed to a large-scale Hotel Management System for enterprise clients.",
                   "Enhanced APIs and frontend with React, Node, TypeORM, and PostgreSQL.",
