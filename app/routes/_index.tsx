@@ -206,6 +206,11 @@ export default function BatechHome() {
               desc: "Built an educational platform that integrates Gemini AI to help students learn and solve math problems interactively.",
               tech: "Flutter, Firebase, Gemini API, TypeScript",
             },
+             {
+              title: "Property Agent Website And Dashboard with Email + WhatsApp campaign",
+              desc: "A website specifically for property agent combine with dashboard and support blast campaign module using email and WhatsApp ",
+              tech: "Asp.net, EF, React.js, Mssql",
+            },
             {
               title: "Real-Time Auto Trading System",
               desc: "Implemented an automated trading platform integrating TradingView signals with Binance for live market execution.",
